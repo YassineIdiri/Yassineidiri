@@ -15,7 +15,7 @@
     "Web Dev": [
         "HTML/CSS",
         "Javascript",
-        "PHP",
+        "PHP", 
         "SQL"
     ]
 
