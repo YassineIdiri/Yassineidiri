@@ -4,7 +4,7 @@
 ```json
 {
     "Name": "Yassine",
-    "Whoami": "Étudiant en L3 informatique",
+    "Whoami": "Étudiant en M1 informatique",
 
     "Software Dev": [
         "C++",
