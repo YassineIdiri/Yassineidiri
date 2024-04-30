@@ -4,18 +4,21 @@
 ```json
 {
     "Name": "Yassine",
-    "Whoami": "Étudiant en M1 informatique",
+    "Whoami": "First-year Master's student",
 
     "Software Dev": [
         "C++",
+        "Qt Framework",
         "Java",
+        "Android Studio",
         "Python"
     ],
 
     "Web Dev": [
-        "HTML/CSS",
+        "PHP",
+        "Laravel Framework",  
         "Javascript",
-        "PHP", 
+        "HTML/CSS",
         "SQL"
     ]
 
