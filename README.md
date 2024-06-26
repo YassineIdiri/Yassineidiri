@@ -6,20 +6,28 @@
     "Name": "Yassine",
     "Whoami": "First-year Master's student",
 
-    "Web": [
-        "Laravel",
-        "SprinBoot",
-        "Angular",
-        "ExpressJS",
-        "React"
-        "SQL"
-    ],
+    "Languages": [
+            "HTML/CSS", "PHP", "JS"
+        ],
 
-    "Software": [
-        "Android Studio",
-        "Swift",  
-        "C++",
-    ]
+        "Web Frameworks": [ 
+            "Laravel", "SpringBoot", "Angular", "React", "ExpressJS"
+        ],
+
+        "Databases": [
+            "MySQL"
+        ],
+
+        "Software Development": [
+            "C++", "Java"
+        ],
+
+        "Mobile Development": [
+            "Android Studio", "Swift"
+        ],
+
+}
+
 
 }
 ```
