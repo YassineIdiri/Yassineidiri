@@ -6,7 +6,7 @@
     "Name": "Yassine",
     "Whoami": "First-year Master's student",
 
-    "Languages": [
+        "Languages": [
             "HTML/CSS", "PHP", "JS"
         ],
 
@@ -25,9 +25,6 @@
         "Mobile Development": [
             "Android Studio", "Swift"
         ],
-
-}
-
 
 }
 ```
