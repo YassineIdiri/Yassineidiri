@@ -6,20 +6,19 @@
     "Name": "Yassine",
     "Whoami": "First-year Master's student",
 
-    "Software Dev": [
-        "C++",
-        "Qt Framework",
-        "Java",
-        "Android Studio",
-        "Python"
+    "Web": [
+        "Laravel",
+        "SprinBoot",
+        "Angular",
+        "ExpressJS",
+        "React"
+        "SQL"
     ],
 
-    "Web Dev": [
-        "PHP",
-        "Laravel Framework",  
-        "Javascript",
-        "HTML/CSS",
-        "SQL"
+    "Software": [
+        "Android Studio",
+        "Swift",  
+        "C++",
     ]
 
 }
