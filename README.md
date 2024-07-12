@@ -23,7 +23,7 @@
      ],
 
      "Mobile Development": [
-        "Android Studio", "Swift"
+        "Android Studio"
      ],
 }
 ```
