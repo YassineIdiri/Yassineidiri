@@ -17,13 +17,5 @@
      "Databases": [
          "MySQL"
      ],
-
-     "Software Development": [
-         "C++", "Java"
-     ],
-
-     "Mobile Development": [
-        "Android Studio"
-     ],
 }
 ```
