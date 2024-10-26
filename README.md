@@ -4,14 +4,14 @@
 ```json
 {
     "Name": "Yassine",
-    "Whoami": "First-year Master's student",
+    "Whoami": "Last-year Master's student",
 
     "Languages": [
-        "HTML/CSS", "PHP", "JS"
+        "C++", "Java", "JavaScript", "PHP"
     ],
 
-    "Web Frameworks": [ 
-        "Laravel", "SpringBoot", "Angular", "React", "ExpressJS"
+    "Frameworks": [ 
+        "Laravel", "SpringBoot", "Angular", "QT", "Android Studio"
      ],
 
      "Databases": [
