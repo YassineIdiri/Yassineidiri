@@ -4,18 +4,22 @@
 ```json
 {
     "Name": "Yassine",
-    "Whoami": "Last-year Master's student",
+    "Whoami": "Junior Software Developer",
 
-    "Languages": [
-        "C++", "Java", "JavaScript", "PHP"
+    "Backend": [
+        "Java (Spring Boot)", "Node.js", "PHP (Laravel)"
     ],
 
-    "Frameworks": [ 
-        "Laravel", "SpringBoot", "Angular", "QT", "Android Studio"
+    "Frontend": [ 
+        "TypeScript", "Angular", "React", "HTML/CSS", "Tailwind"
      ],
 
-     "Databases": [
-         "MySQL"
+     "Data/Infra": [
+         "SQL (MySQL)", "Docker", "CI/CD", "Kubernetes (bases)"
+     ],
+
+    "Quality": [
+         "Tests", "Code review", "Git", "Agile/Scrum"
      ],
 }
 ```
