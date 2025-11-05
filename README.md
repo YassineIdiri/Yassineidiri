@@ -4,7 +4,7 @@
 ```json
 {
     "Name": "Yassine Idiri",
-    "Whoami": "Junior Software Developer",
+    "Whoami": "Software Developer",
 
     "Backend": [
         "Java (Spring Boot)", "Node.js", "PHP (Laravel)"
