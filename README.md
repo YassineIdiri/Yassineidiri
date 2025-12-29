@@ -67,12 +67,12 @@ J’aime livrer des applis **Spring Boot / Angular** propres, testées, sécuris
 
 ## 📊 GitHub Stats (le côté “wahou”)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yassineidiri&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineidiri&layout=compact&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yassineidiri&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassineidiri&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassineidiri" />
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassineidiri" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ J’aime livrer des applis **Spring Boot / Angular** propres, testées, sécuris
 ---
 
 ## 🐍 Contributions (animation)
-<img width="100%" src="https://github.com/yassineidiri/yassineidiri/blob/output/github-contribution-grid-snake.svg" />
+<img width="100%" src="https://github.com/Yassineidiri/Yassineidiri/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
