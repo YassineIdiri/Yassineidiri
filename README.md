@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
 Full Stack Java / Angular engineer with a Master's in Software Engineering & Cloud.  
 I build **secure, tested, production-ready** Spring Boot + Angular applications with a strong focus on **performance, clean architecture and DevOps**.
@@ -48,22 +48,10 @@ I build **secure, tested, production-ready** Spring Boot + Angular applications 
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
-## 🚀 Featured Projects
-
-### 💰 [Expense Tracker](https://expense-tracker.yassineidiri.com) — SaaS Budget Manager
-> Spring Boot · Angular · PostgreSQL · Docker · AWS · CI/CD
-
-- Full-stack SaaS with JWT auth + refresh token, category management and analytics dashboard
-- CI pipeline with integrated PostgreSQL for automated test execution on every push
-- Dockerized and deployed to the cloud
-
-🔗 [Live Demo](https://expense-tracker.yassineidiri.com) · [Source Code](https://github.com/YassineIdiri/expense-tracker)
-
----
+## 🚀 Experience
 
 ### 🎓 Academic Management Platform — Freelance
 > Spring Boot · Angular · Redis · PostgreSQL · GitHub Actions
