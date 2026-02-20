@@ -32,8 +32,6 @@ I build **secure, tested, production-ready** Spring Boot + Angular applications 
 #### Backend
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Redis](https://skillicons.dev/icons?i=redis)
 
 #### Frontend
@@ -46,7 +44,6 @@ I build **secure, tested, production-ready** Spring Boot + Angular applications 
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 
 ---
