@@ -11,11 +11,6 @@
     <a href="https://www.linkedin.com/in/yassine-idiri"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&border=0ea5e9" alt="LinkedIn" /></a>
     <a href="mailto:pro.idiri.yassine@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=0ea5e9&border=0ea5e9" alt="Email" /></a>
   </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=yassineidiri&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-ff9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Open%20to-CDI%20Java%20%2F%20Angular-22c55e?style=flat-square" alt="Status" />
-  </p>
 
 </div>
 
