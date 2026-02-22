@@ -89,7 +89,7 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
 
 <div align="center">
   <h4>Contributions</h4>
-  <img src="https://raw.githubusercontent.com/Yassineidiri/Yassineidiri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img width="100%" src="https://github.com/Yassineidiri/Yassineidiri/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
