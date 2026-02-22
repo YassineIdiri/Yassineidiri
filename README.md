@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a Full Stack Java / Angular engineer with a Master's degree in Software Engineering & Cloud Architecture. My passion lies in building **secure, tested, and production-ready** applications. I don't just write code; I focus on **performance, clean architecture, and the entire DevOps lifecycle**.
 
@@ -42,7 +42,7 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
       <td align="center"><b>DevOps & Cloud</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,postgres,redis&perline=2" alt="Backend Stack" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java,spring,rust,redis&perline=2" alt="Backend Stack" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind&perline=2" alt="Frontend Stack" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions&perline=2" alt="DevOps Stack" /></td>
     </tr>
@@ -54,7 +54,7 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
 ### 💼 Featured Experience
 
 #### 🎓 Academic Management Platform 
-*Freelance*
+*Mondecole (Mulhouse, France)*
 > **Stack:** `Spring Boot` `Angular` `Redis` `PostgreSQL` `GitHub Actions`
 * Architected a multi-tenant platform ensuring complete data isolation between organizations.
 * Slashed API response time by **+55%** through rigorous JPA optimization, strategic DB indexing, and Redis caching.
@@ -62,7 +62,7 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
 * Automated deployments with a robust GitHub Actions CI/CD pipeline.
 
 #### 🏥 Medical Logistics Platform
-*Adibilis GmbH (Switzerland)*
+*Adibilis GmbH (Basel, Switzerland)*
 > **Stack:** `Spring Boot` `Angular` `WebSocket` `OAuth2` `Rust` `Raspberry Pi`
 * Automated the end-to-end logistics workflow for a major Swiss medical group.
 * Integrated the Swiss Post API (OAuth2) for label generation and engineered real-time delivery tracking via WebSockets to a Rust microservice.
@@ -75,7 +75,7 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassineidiri&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0B1120&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassineidiri&layout=compact&langs_count=6&theme=tokyonight&bg_color=0B1120&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassineidiri&layout=compact&langs_count=6&theme=tokyonight&bg_color=0B1120&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -87,8 +87,8 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
 <br/>
 
 <div align="center">
-  <h4>🐍 Contributions</h4>
-  <img width="100%" src="https://github.com/Yassineidiri/Yassineidiri/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <h4>Contributions</h4>
+  <img width="100%" src="https://raw.githubusercontent.com/Yassineidiri/Yassineidiri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
