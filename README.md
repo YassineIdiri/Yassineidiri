@@ -21,24 +21,6 @@
 
 ---
 
-<div align="center">
-  <h4>Contributions</h4>
-<img width="100%" src="https://github.com/Yassineidiri/Yassineidiri/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-### About Me
-
-I am a Full Stack Java / Angular engineer with a Master's degree in Software Engineering & Cloud Architecture. My passion lies in building **secure, tested, and production-ready** applications. I don't just write code; I focus on **performance, clean architecture, and the entire DevOps lifecycle**.
-
-* 🔐 **Security First:** Spring Security, JWT, Refresh Tokens, RBAC.
-* ⚡ **Performance Driven:** JPA optimization, PostgreSQL indexing, Redis caching (*achieved +55% latency reduction*).
-* 🧪 **Quality Obsessed:** JUnit, Mockito, Jasmine/Karma, CI pipelines (*maintained ~80% test coverage*).
-* 🚀 **Cloud & DevOps:** Docker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, AWS EC2.
-
----
-
 ### 🧰 Tech Stack
 
 <div align="center">
@@ -57,6 +39,25 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
 </div>
 
 ---
+
+<div align="center">
+  <h4>Contributions</h4>
+<img width="100%" src="https://github.com/Yassineidiri/Yassineidiri/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+### About Me
+
+I am a Full Stack Java / Angular engineer with a Master's degree in Software Engineering & Cloud Architecture. My passion lies in building **secure, tested, and production-ready** applications. I don't just write code; I focus on **performance, clean architecture, and the entire DevOps lifecycle**.
+
+* 🔐 **Security First:** Spring Security, JWT, Refresh Tokens, RBAC.
+* ⚡ **Performance Driven:** JPA optimization, PostgreSQL indexing, Redis caching (*achieved +55% latency reduction*).
+* 🧪 **Quality Obsessed:** JUnit, Mockito, Jasmine/Karma, CI pipelines (*maintained ~80% test coverage*).
+* 🚀 **Cloud & DevOps:** Docker, Kubernetes (AWS EKS), Jenkins, GitHub Actions, AWS EC2.
+
+---
+
 
 ### 💼 Featured Experience
 
