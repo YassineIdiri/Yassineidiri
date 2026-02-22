@@ -75,12 +75,14 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassineidiri&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0B1120&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassineidiri&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0B1120&hide_border=true&rank_icon=github" alt="GitHub Stats" />
  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassineidiri&layout=compact&theme=tokyonight&bg_color=0B1120&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
+  
   <img src="https://streak-stats.demolab.com/?user=Yassineidiri&theme=tokyonight&background=0B1120&hide_border=true" alt="GitHub Streak" />
 </div>
 
