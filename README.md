@@ -37,7 +37,7 @@
 
 ### About Me
 
-I am a Full Stack Java / Angular engineer with a Master's degree in Software Engineering & Cloud Architecture. My passion lies in building **secure, tested, and production-ready** applications. I don't just write code; I focus on **performance, clean architecture, and the entire DevOps lifecycle**.
+I am a Full Stack Java / Angular engineer with a Master's degree in Software Engineering & Cloud Architecture. I don't just write code; I focus on **performance, clean architecture, and the entire DevOps lifecycle**.
 
 * 🔐 **Security First:** Spring Security, JWT, Refresh Tokens, RBAC.
 * ⚡ **Performance Driven:** JPA optimization, PostgreSQL indexing, Redis caching (*achieved +55% latency reduction*).
