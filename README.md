@@ -74,8 +74,8 @@ I am a Full Stack Java / Angular engineer with a Master's degree in Software Eng
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassineidiri&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0B1120&hide_border=true" alt="GitHub Stats" />
- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassineidiri&layout=compact&theme=tokyonight&bg_color=0B1120&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yassineidiri&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassineidiri&layout=compact&theme=tokyonight&bg_color=0B1120&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br/>
