@@ -21,6 +21,13 @@
 
 ---
 
+<div align="center">
+  <h4>Contributions</h4>
+<img width="100%" src="https://github.com/Yassineidiri/Yassineidiri/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
 ### About Me
 
 I am a Full Stack Java / Angular engineer with a Master's degree in Software Engineering & Cloud Architecture. My passion lies in building **secure, tested, and production-ready** applications. I don't just write code; I focus on **performance, clean architecture, and the entire DevOps lifecycle**.
